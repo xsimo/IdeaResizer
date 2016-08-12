@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿using System.Resources;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -6,12 +7,12 @@ using System.Runtime.InteropServices;
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
 [assembly: AssemblyTitle("ConsoleApplication1")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Resizes out of bounds jetbrains' idea window")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ConsoleApplication1")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany("Creations Xsimo")]
+[assembly: AssemblyProduct("IdeaResizer")]
+[assembly: AssemblyCopyright("Copyright Xsimo.CA ©  2016")]
+[assembly: AssemblyTrademark("HomeworX")]
 [assembly: AssemblyCulture("")]
 
 // L'affectation de la valeur false à ComVisible rend les types invisibles dans cet assembly 
@@ -20,7 +21,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("1fdf342c-7e47-4ec3-b79c-22fa3d9cbfd2")]
+[assembly: Guid("11bc472f-4201-4d99-819d-5c0111d682c1")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //
@@ -34,3 +35,5 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: NeutralResourcesLanguage("fr-CA")]
+
