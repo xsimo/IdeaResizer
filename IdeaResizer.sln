@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaResizer", "Enlarger\IdeaResizer.csproj", "{9E8DFBF5-B11C-40E7-8443-E6F125C317E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaResizer", "IdeaResizer\IdeaResizer.csproj", "{9E8DFBF5-B11C-40E7-8443-E6F125C317E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
